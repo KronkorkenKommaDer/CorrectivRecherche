@@ -35,7 +35,7 @@ Das Netzwerk ist ein *ungerichtetes Gesamtnetzwerk*
 
 **type**
 <p>Funktion, die der Knoten erfüllt
-("Aktivist", "Autor", "Bauunternehmer", "Ehefrau", "Geistlicher", "Heilpraktiker", "Immobilienunternehmerin", "Influencer", "Journalist", "Jusrist", "Kabarettist", "Milliardär", "Netzaktivist", "Politiker", "Privatperson", "Publizist", "Rechtsanwalt", "Unternehmer", "Zahnärztin")
+<p>("Aktivist", "Autor", "Bauunternehmer", "Ehefrau", "Geistlicher", "Heilpraktiker", "Immobilienunternehmerin", "Influencer", "Journalist", "Jusrist", "Kabarettist", "Milliardär", "Netzaktivist", "Politiker", "Privatperson", "Publizist", "Rechtsanwalt", "Unternehmer", "Zahnärztin")
 
 **remarks**
 <p>Kurze Informationen zum jeweiligen Knoten (NA)
