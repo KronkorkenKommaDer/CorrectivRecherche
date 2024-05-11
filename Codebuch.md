@@ -15,7 +15,7 @@ Unsere Forschung entstand aus der Vorlesung "Soziale Netzwerkanalyse", die währ
 
 Der Datenzugang erfolgte über den Artikel "Geheimplan gegen Deutschland" von Correctiv, sowie durch eine umfangreiche Analyse verschiedener Medienberichte, um ein möglichst breites Spektrum an Quellen für unser Netzwerk zu erschließen. Die Datenerhebung konzentrierte sich auf Mitglieder der AfD und die Veranstaltungen und Personen, die mit dem Gasthof-Adlon-Treffen und weiteren ähnlichen Zusammenkünften verbunden sind.
 
-Das Netzwerk ist ein *ungerichtetes Gesamtnetzwerk*
+Das Netzwerk ist ein *ungerichtetes Gesamtnetzwerk* und gewichtet.
 
 # NODELIST-Attribute
 
