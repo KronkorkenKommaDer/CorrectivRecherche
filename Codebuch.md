@@ -5,7 +5,7 @@ Codebuch Verbindungen der AfD mit Rechtsextremen Stand Abgabe (13.05.2024)
 Erstellt von Simon exner (se099) und Jan Köneke (jk268)
 
 ## Inhalt
-- faschonodes.csv (Nodelist
+- faschonodes.csv (Nodelist)
 - faschoedges.csv (Edgelist)
 - Codebuch.md (Codierung der Datensätze)
 
